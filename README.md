@@ -20,4 +20,4 @@ To launch and test this mobile application on your machine, follow these steps:
  *  If any index sync fails, run Build -> Rebuild Project from the top menu bar.
 4. Run on Emulator / Hardware Device:
  *  Select an active virtual device (Emulator with API 24 or newer) or connect a physical Android device via USB with USB Debugging activated.
- *  Click the green Run button (Play icon) on the top action bar or press Shift + F10.
+ *  Click the Run button on the top action bar or press Shift + F10.
