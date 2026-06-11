@@ -1,12 +1,11 @@
 # Software-Development-Skills-Mobile-2025-26
 
 ## 1. Student Information
-* **Developer Name:** <Вставь сюда свое Имя и Фамилию латиницей>
-* **Student Number:** <Вставь сюда свой номер студенческого билета>
-* **University:** Lappeenranta-Lahti University of Technology LUT
+* **Name:** Anderi Ziber
+* **University:** LAB University of Applied Sciences
 
 ## 2. Project Overview: DevHub Portfolio
-An interactive Android application built with native Java and XML layout systems. It features a professional **Freelance Project Budget Estimator** that calculates project pricing, hourly rates, or task times based on flexible multi-way validation logic. Additionally, it contains a customized **Project Showcase View** streamed via a memory-optimized list layout to demonstrate production-grade mobile engineering skills.
+An interactive Android application built with native Java and XML layout systems. It features a professional **Freelance Project Budget Estimator** that calculates project pricing, hourly rates, or task times using flexible, multi-way validation logic. Additionally, it includes a customized **Project Showcase View** rendered with a memory-optimized list layout to showcase production-grade mobile engineering skills.
 
 ## 3. How to Run the Project
 To launch and test this mobile application on your machine, follow these steps:
